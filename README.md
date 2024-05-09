@@ -10,6 +10,7 @@ This application is a posts list article where this application is built using R
   - [Setup](#setup)
 - [Screenshots](#screenshots)
 - [Built With](#built-with)
+- [Download APK](#download-apk-release)
 - [Author](#author)
 
 ## Getting Started
@@ -72,7 +73,10 @@ Wait till the application is installed and run into your device. Now, you can ex
 ## Built With
 
 - [REACT NATIVE](https://facebook.github.io/react-native/) - MOBILE FRONTEND
-- [REST API](https://jsonplaceholder.typicode.com/) - JSONPLACEHOLDER API 
+- [REST API](https://jsonplaceholder.typicode.com/) - JSONPLACEHOLDER API
+
+## Download APK Release
+- [GOOGLE DRIVE] (https://drive.google.com/file/d/1jKO6LzZM1a1UpLiPuxP3ExvjqEeGx2Ao/view?usp=sharing)
 
 ## Author
 
