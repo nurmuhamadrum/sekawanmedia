@@ -72,8 +72,8 @@ Wait till the application is installed and run into your device. Now, you can ex
 ## Built With
 
 - [REACT NATIVE](https://facebook.github.io/react-native/) - MOBILE FRONTEND
-- [REST API](https://jsonplaceholder.typicode.com/) - JSONPLACEHOLDER API
+- [REST API](https://jsonplaceholder.typicode.com/) - JSONPLACEHOLDER API 
 
 ## Author
 
-**Nur Muhamad Rum** - https://www.nurmuhamadrum.vercel.app
+**Nur Muhamad Rum** - (https://nurmuhamadrum.vercel.app/)
